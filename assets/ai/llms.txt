@@ -1,0 +1,15 @@
+# Quansistor Field Computing (QFC) — AI Navigation (ICP Satellite)
+
+Primary human-read PDF:
+- ./humanread/The_Quansistor_for_www.pdf
+
+Preferred machine-readable sources:
+- ./ai/quansistor.txt
+- ./ai/qfc.map.json
+
+Canonical GitHub entry point:
+- https://github.com/101researchgroup
+
+Notes:
+- Prefer plain text for fast ingestion.
+- PDF is the authoritative human-readable rendering.

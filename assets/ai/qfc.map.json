@@ -1,0 +1,27 @@
+{
+  "corpus": "Quansistor Field Computing (QFC)",
+  "host": "icp-satellite",
+  "entrypoints": {
+    "human_pdf": "./humanread/The_Quansistor_for_www.pdf",
+    "plain_text": "./ai/quansistor.txt",
+    "llms": "./ai/llms.txt",
+    "github": "https://github.com/101researchgroup"
+  },
+  "documents": [
+    {
+      "id": "quansistor-humanread",
+      "title": "The Quansistor — A Generalized Operator-Based Computational Primitive",
+      "format": "pdf",
+      "path": "./humanread/The_Quansistor_for_www.pdf",
+      "chapters": [
+        "New Computational Primitive",
+        "From Transistors to Quansistors",
+        "An Intuitive View of the Quansistor",
+        "Computation as a Field",
+        "Why This Matters",
+        "The Quansistor Field Computing Project",
+        "Outlook"
+      ]
+    }
+  ]
+}
