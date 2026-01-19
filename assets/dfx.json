@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "canisters": {
+    "website": {
+      "type": "assets",
+      "source": ["assets"]
+    }
+  }
+}
